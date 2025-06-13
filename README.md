@@ -1,45 +1,45 @@
 # BrewTracker
 
-**BrewTracker** è un'applicazione Flutter pensata per gli appassionati di caffè, dal principiante all'esperto, che desiderano tracciare, perfezionare e documentare la propria esperienza caffeicola.
+**BrewTracker** is a Flutter application designed for coffee enthusiasts — from beginners to experts — who want to track, refine, and document their coffee journey.
 
-## ✨ Funzionalità principali
+## ✨ Key Features
 
-- **Catalogo caffè**: Inserisci varietà, origine, tostatura e note di degustazione dei tuoi caffè preferiti.
-- **Registrazione preparazioni**: Registra metodi di estrazione e parametri come temperatura, rapporto e tempo.
-- **Diario di degustazione**: Valuta ogni caffè con un sistema flessibile e aggiungi note aromatiche.
-- **Interfaccia intuitiva**: Design pensato per semplicità d’uso e chiarezza visiva.
-- **Timer integrato**: Supporta diverse tecniche di preparazione del caffè.
+- **Coffee Catalog**: Add and manage your favorite coffees, including variety, origin, roast, and tasting notes.
+- **Brew Logging**: Record brew methods and parameters such as temperature, ratio, and time.
+- **Tasting Journal**: Rate each coffee using a flexible system and add flavor notes.
+- **User-Friendly Interface**: Clean and intuitive design for a smooth experience.
+- **Integrated Timer**: Supports different brewing techniques with guided steps.
 
-## 🧪 Valutazione utente
+## 🧪 User Testing
 
-Durante il processo di prototipazione, l'app è stata testata da 4 utenti:
-- Tutti abituati all'uso di app mobili.
-- Task testati: aggiunta caffè, registrazione preparazione, inserimento valutazione.
+During the prototyping phase, the app was tested with 4 users:
+- All experienced with mobile apps.
+- Tested tasks: adding coffee, logging a brew, entering a rating.
 
-### 🔍 Feedback ricevuto
-- **+** Interfaccia semplice e intuitiva
-- **+** Sistema di valutazione flessibile
-- **–** Alcune icone poco chiare
-- **–** Timer poco immediato
+### 🔍 Feedback Highlights
+- **+** Simple and intuitive interface
+- **+** Flexible rating system
+- **–** Some unclear icons
+- **–** Timer not immediately intuitive
 
-## 🔁 Iterazioni del design
+## 🔁 Design Iterations
 
-- Aggiunte etichette sotto le icone di navigazione
-- Tooltip di aiuto nella schermata del timer
-- Interfaccia di degustazione migliorata con tag opzionali
-- Maggiore spaziatura tra elementi
+- Added labels under navigation icons
+- Tooltips introduced in timer screen
+- Enhanced tasting interface with optional tags
+- Improved spacing between UI elements
 
-## 📲 Requisiti principali implementati (MVP)
+## 📲 Implemented Requirements (MVP)
 
-- ✅ R1.1, R1.3, R1.4 – Gestione base del catalogo caffè
-- ✅ R2.1, R2.2, R2.3 – Tracciamento base preparazioni
-- ✅ R3.1, R3.3 – Diario di degustazione
-- ✅ R5.1, R5.2 – Gestione base delle scorte
-- ✅ NF1, NF2 – UI intuitiva e funzionamento offline
+- ✅ R1.1, R1.3, R1.4 – Basic coffee catalog functionality
+- ✅ R2.1, R2.2, R2.3 – Brew tracking capabilities
+- ✅ R3.1, R3.3 – Tasting journal integration
+- ✅ R5.1, R5.2 – Basic inventory management
+- ✅ NF1, NF2 – Intuitive UI and offline support
 
-## 🚧 Da implementare (release future)
+## 🚧 To Be Implemented (Future Releases)
 
-- Ricette avanzate e suggerimenti intelligenti
-- Community e condivisione esperienze
-- Integrazione con mappe di torrefazioni
-- Blind tasting e ruota degli aromi interattiva
+- Advanced recipes and smart suggestions
+- Community features and experience sharing
+- Integration with roastery maps
+- Blind tasting mode and interactive flavor wheel
